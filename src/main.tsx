@@ -3,7 +3,7 @@
 import React, { StrictMode } from 'react';
 import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
-import App from './App';
+import App from './app';
 import './index.css';
 
 // Optional: A Root Component if you want to include extra elements
